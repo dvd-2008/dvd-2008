@@ -14,11 +14,11 @@ const config = {
   url: 'https://dvd-2008.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DRACU/',
+  baseUrl: '/dracu/',
 
   // GitHub pages deployment config.
   organizationName: 'dvd-2008',
-  projectName: 'DRACU',
+  projectName: 'dracu',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
