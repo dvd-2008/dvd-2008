@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://documentacion.chat.buho.la',
+  url: 'https://dvd-2008.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/documentacion/',
+  baseUrl: '/dracu/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
-  projectName: 'documentacion',
+  organizationName: 'dvd-2008',
+  projectName: 'DRACU',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://seeklogo.com/images/T/trident-logo-218042E62B-seeklogo.com.png',
         },
         items: [
           // {
