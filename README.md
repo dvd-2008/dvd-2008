@@ -15,10 +15,6 @@ David Huaman </a></h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 <br><br>
 🎓 Desarrolador de Software<br><br>🎥 PEQUEÑO CREADOR DE PROGRAMAS que quiere transimitir sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia<br><br>💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 3 para no deschavar mi edad 🙈)<br><br>📝 roles en el ámbito: desarrollador... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️<br><br>💻 Tengo un certificado en "Programador Web JAVA-FRONT END" , usando React y Angular<br><br>📫 Contacto: dhuaman.2008@gmail.com<br><br>🌟 Lenguaje principal: PHP 😁<br><br>😃 Espero colaborar en proyectos impactantes.
 
